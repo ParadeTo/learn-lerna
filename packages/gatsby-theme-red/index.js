@@ -1,1 +1,1 @@
-//loop
+module.exports = 1
