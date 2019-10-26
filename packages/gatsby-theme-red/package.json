@@ -1,5 +1,5 @@
 {
-	"name": "@youxingzhi/gatsby-theme-red",
+	"name": "gatsby-theme-red",
 	"version": "1.2.0",
 	"license": "MIT",
 	"main": "index.js",
@@ -11,5 +11,5 @@
 	"dependencies": {
 		"react": "^16.11.0"
 	},
-	"gitHead": "d6e7a829bbcd03c8acd361532462acbeaf77d264"
+	"gitHead": "61876fcdb73929182ad6028563037c21b3745696"
 }

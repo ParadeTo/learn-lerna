@@ -1,2 +1,2 @@
-const n = require('@youxingzhi/gatsby-theme-red')
+const n = require('gatsby-theme-red')
 console.log(n)
