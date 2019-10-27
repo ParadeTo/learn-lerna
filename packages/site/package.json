@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "gatsby": "^2.17.2",
-    "gatsby-theme-red": "^1.3.0",
+    "gatsby-theme-red": "1.3.0",
     "react": "^16.11.0"
   },
-  "gitHead": "eb8dd5dc68b0283d28c6962d4038d8c7fadf9a96"
+  "gitHead": "3ce3e935792d9d6b1ad9d293be68b2d75de5084c"
 }
