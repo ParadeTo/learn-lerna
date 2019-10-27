@@ -1,6 +1,6 @@
 {
-	"name": "gatsby-theme-red-ayou",
-	"version": "1.5.0",
+	"name": "gatsby-theme-red",
+	"version": "1.4.0",
 	"license": "MIT",
 	"main": "index.js",
 	"scripts": {
